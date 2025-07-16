@@ -1,3 +1,8 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![VS Code Extension](https://img.shields.io/badge/VSCode-Extension-blue?logo=visualstudiocode)
+![Status: WIP](https://img.shields.io/badge/status-WIP-orange)
+
+
 # 💡 HTML Tag Mapper – Smart & Stable Visual Tag Pairing for HTML (WIP)
 
 A smart Visual Studio Code extension that helps you **visually trace and verify paired HTML tags** (like `<div>`) with stable numbering. Designed to simplify debugging, teaching, and editing complex HTML structures.
